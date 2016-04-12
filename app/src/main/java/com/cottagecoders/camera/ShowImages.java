@@ -27,7 +27,6 @@ public class ShowImages extends Activity {
 
             tr.addView(tv);
             table.addView(tr);
-
         }
 
 
