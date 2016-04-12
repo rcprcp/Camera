@@ -18,8 +18,7 @@ public class ShowImages extends Activity {
         TableLayout table = (TableLayout) findViewById(R.id.tab);
 
         File dirFiles = getApplicationContext().getFilesDir();
-        for (String strFile : dirFiles.list())
-        {
+        for (String strFile : dirFiles.list()) {
             TextView tv = new TextView(getApplicationContext());
             tv.setText(strFile);
 
@@ -28,10 +27,6 @@ public class ShowImages extends Activity {
             tr.addView(tv);
             table.addView(tr);
         }
-
-
-
-
     }
 
 }
