@@ -239,7 +239,6 @@ public class NewTakePicture extends Activity implements SurfaceHolder.Callback {
 		// TODO: this is necessary for older phones (deprecated in API 11):
 		pushBuffers(surfaceHolder);
 
-		// xyzzy
 		// cameraView.setFocusable(true);
 		// cameraView.setFocusableInTouchMode(true);
 

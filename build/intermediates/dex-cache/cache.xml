@@ -2,25 +2,39 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-dae82fa25bfc602b7ed4d138a7d70650f76027a0.jar" />
+        jar="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_d0b46a2be85bb3520f5581ecc34768342fe34494/classes.dex" />
     </item>
     <item
-        jar="C:\Users\bob\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-e0e399a617713d751372673aa25b312f16330c7e.jar" />
+        jar="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8fadeae6577ebbcd6a23fbc3b24f6dcc913ff603">
+        <dex dex="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_92225808736cf0d4e33674f7721add7b8279b94c/classes.dex" />
     </item>
     <item
-        jar="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\pre-dexed\debug\classes-a7caacb8e38c5a4b55e50f4b1a65e290bee2de05.jar" />
+        jar="/home/bob/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_4cf3b9c5109644e95d5efba409e86958f649a9e5/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_e1bee76819887fbe6f380279155746241fe7be32/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3cdd8bf1ac661cb36237a5d4db716b72117b9470">
+        <dex dex="/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d2b7acfa4c042b140ed01307b2012b2b66552a1/classes.dex" />
     </item>
 
 </items>
