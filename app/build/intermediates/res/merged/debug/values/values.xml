@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="blue">#770000ff</color>
+    <color name="green">#7700ff00</color>
+    <color name="mint">#E4ffE4</color>
+    <color name="neonGreen">#39ff14</color>
+    <color name="red">#9f00</color>
+    <color name="white">#77ffffff</color>
+    <color name="yellow">#77ffff00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Camera</string>
+    <string name="close">Close</string>
+    <string name="done">Done</string>
+    <string name="exit">Cancel</string>
+    <string name="flash">Flash</string>
+    <string name="flash_off">"Turn Flash Off"</string>
+    <string name="flash_on">"Turn Flash On"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ok">"OK"</string>
+    <string name="retry">Retry</string>
+    <string name="save">Save</string>
+    <string name="settings">Settings</string>
+    <string name="switch_camera">Camera</string>
+    <string name="take">Take</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

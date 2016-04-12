@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera</string>
+    <string name="take">Take</string>
+    <string name="save">Save</string>
+    <string name="retry">Retry</string>
+    <string name="exit">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="close">Close</string>
+    <string name="flash">Flash</string>
+    <string name="switch_camera">Camera</string>
+    <string name="done">Done</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ok">"OK"</string>
+    <string name="flash_on">"Turn Flash On"</string>
+    <string name="flash_off">"Turn Flash Off"</string>
+
+</resources>

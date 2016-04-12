@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-dae82fa25bfc602b7ed4d138a7d70650f76027a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\bob\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-e0e399a617713d751372673aa25b312f16330c7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\bob\StudioProjects\Camera\app\build\intermediates\pre-dexed\debug\classes-a7caacb8e38c5a4b55e50f4b1a65e290bee2de05.jar" />
+    </item>
+
+</items>

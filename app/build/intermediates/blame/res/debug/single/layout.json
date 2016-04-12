@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/layout/new_see_camera.xml",
+        "source": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/layout/new_see_camera.xml"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/layout/new_camera_control.xml",
+        "source": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/layout/new_camera_control.xml"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/layout/activity_camera.xml"
+    }
+]
