@@ -1,7 +1,5 @@
 package com.cottagecoders.camera;
 
-import java.io.File;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -15,6 +13,8 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import java.io.File;
 
 public class Camera extends Activity {
 	Context ctx;
@@ -54,6 +54,16 @@ public class Camera extends Activity {
 				Log.d(TAG, "start the camera intent...");
 				startActivityForResult(intent, 234);
 				tv.setText("");
+			}
+		});
+
+		Button images = (Button) findViewById(R.id.images);
+		start.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(ctx, ShowImages.class);
+				startActivity(intent);
+
 			}
 		});
 

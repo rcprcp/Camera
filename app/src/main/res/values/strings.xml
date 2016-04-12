@@ -14,7 +14,10 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="ok">"OK"</string>
+    <string name="start">"Start"</string>
+    <string name="images">"Images"</string>
     <string name="flash_on">"Turn Flash On"</string>
     <string name="flash_off">"Turn Flash Off"</string>
+    <string name="title_activity_show_images">ShowImages</string>
 
 </resources>
