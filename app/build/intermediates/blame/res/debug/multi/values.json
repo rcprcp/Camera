@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/values/values.xml",
+        "outputFile": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 92
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/colors.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 133
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/colors.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 175
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/colors.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 214
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/colors.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/colors.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 294
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/colors.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 336
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/colors.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 379
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/colors.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 437
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/dimens.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 493
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/dimens.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 546
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 590
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 630
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 668
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 708
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 748
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -315,13 +315,13 @@
                     "endOffset": 803
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 664,
+                        "startOffset": 750,
                         "endColumn": 54,
-                        "endOffset": 714
+                        "endOffset": 800
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 856
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 611,
+                        "startOffset": 697,
                         "endColumn": 52,
-                        "endOffset": 659
+                        "endOffset": 745
                     }
                 }
             },
@@ -353,7 +353,7 @@
                     "endOffset": 909
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -368,11 +368,30 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 914,
-                    "endColumn": 35,
-                    "endOffset": 945
+                    "endColumn": 43,
+                    "endOffset": 953
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 43,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 35,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -384,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 950,
+                    "startOffset": 994,
                     "endColumn": 39,
-                    "endOffset": 985
+                    "endOffset": 1029
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -403,14 +422,14 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 990,
+                    "startOffset": 1034,
                     "endColumn": 37,
-                    "endOffset": 1023
+                    "endOffset": 1067
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -422,14 +441,14 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1028,
+                    "startOffset": 1072,
                     "endColumn": 45,
-                    "endOffset": 1069
+                    "endOffset": 1113
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -441,14 +460,33 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1074,
-                    "endColumn": 48,
-                    "endOffset": 1118
+                    "startOffset": 1118,
+                    "endColumn": 41,
+                    "endOffset": 1155
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 41,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 48,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -460,14 +498,14 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1123,
+                    "startOffset": 1209,
                     "endColumn": 37,
-                    "endOffset": 1156
+                    "endOffset": 1242
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -479,15 +517,34 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1161,
-                    "endLine": 33,
-                    "endColumn": 12,
-                    "endOffset": 1447
+                    "startOffset": 1247,
+                    "endColumn": 65,
+                    "endOffset": 1308
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/styles.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 65,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1313,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1599
+                },
+                "from": {
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -500,15 +557,15 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 1452,
-                    "endLine": 36,
+                    "startOffset": 1604,
+                    "endLine": 39,
                     "endColumn": 12,
-                    "endOffset": 1607
+                    "endOffset": 1759
                 },
                 "from": {
-                    "file": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/values/styles.xml",
+                    "file": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

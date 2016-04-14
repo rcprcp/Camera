@@ -17,6 +17,7 @@ import android.widget.TextView;
 import java.io.File;
 
 public class Camera extends Activity {
+	//test
 	Context ctx;
 	TextView tv;
 	public static String TAG = "CameraApp";

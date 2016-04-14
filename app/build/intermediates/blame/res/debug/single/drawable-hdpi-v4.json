@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gradient_button.xml",
-        "source": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/drawable-hdpi/gradient_button.xml"
+        "merged": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gradient.xml",
-        "source": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/drawable-hdpi/gradient.xml"
+        "merged": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient.xml",
+        "source": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\drawable-hdpi\\gradient.xml"
     },
     {
-        "merged": "/home/bob/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
-        "source": "/home/bob/AndroidStudioProjects/Camera/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_button.xml",
+        "source": "C:\\Users\\Marij\\Desktop\\AndroidStudioProjects\\Camera\\app\\src\\main\\res\\drawable-hdpi\\gradient_button.xml"
     }
 ]
