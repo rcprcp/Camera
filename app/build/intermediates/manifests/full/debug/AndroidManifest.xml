@@ -35,8 +35,11 @@
             android:name="com.cottagecoders.camera.NewTakePicture"
             android:label="@string/app_name" />
         <activity
-            android:name="com.cottagecoders.camera.ShowImages"
-            android:label="@string/title_activity_show_images" />
+            android:name="com.cottagecoders.camera.ShowImage"
+            android:label="@string/title_activity_show_image" />
+        <activity
+            android:name="com.cottagecoders.camera.ListImages"
+            android:label="@string/title_activity_list_images" />
     </application>
 
 </manifest>

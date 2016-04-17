@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
 		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml
@@ -51,7 +51,7 @@ ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\Andr
 	android:name
 		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:18:22-77
 application
-ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:20:5-40:19
+ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:20:5-44:19
 MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:23:9-41
@@ -83,9 +83,15 @@ ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\Andr
 		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:36:13-45
 	android:name
 		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:35:13-43
-activity#com.cottagecoders.camera.ShowImages
-ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:37:9-39:75
+activity#com.cottagecoders.camera.ShowImage
+ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:37:9-39:64
 	android:label
-		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:39:13-63
+		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:39:13-62
 	android:name
-		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:38:13-39
+		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:38:13-38
+activity#com.cottagecoders.camera.ListImages
+ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:41:9-43:65
+	android:label
+		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\src\main\AndroidManifest.xml:42:13-39

@@ -4,10 +4,6 @@
     android:versionCode="1"
     android:versionName="1.0">
 
-    <uses-sdk
-        android:minSdkVersion="9"
-        android:targetSdkVersion="23" />
-
     <uses-permission android:name="android.permission.CAMERA" />
 
     <uses-feature android:name="android.hardware.camera" />
@@ -35,8 +31,12 @@
             android:name=".NewTakePicture"
             android:label="@string/app_name" />
         <activity
-            android:name=".ShowImages"
-            android:label="@string/title_activity_show_images"></activity>
+            android:name=".ShowImage"
+            android:label="@string/title_activity_show_image"/>
+
+        <activity
+            android:name=".ListImages"
+            android:label="@string/title_activity_list_images"/>
     </application>
 
 </manifest>
