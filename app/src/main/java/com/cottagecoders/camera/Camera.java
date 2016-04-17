@@ -15,9 +15,9 @@ public class Camera extends Activity {
     public static Context ctx;
     TextView tv;
     public static String TAG = "CameraApp";
-    private static String EXTENSION = ".jpg";
-    private static String PREFACE = "MyFile_";
-    private static String fileName;
+    public final static String EXTENSION = ".jpg";
+    public final static String PREFACE = "MyFile_";
+    static String fileName;
     private long num = 0;
 
 
