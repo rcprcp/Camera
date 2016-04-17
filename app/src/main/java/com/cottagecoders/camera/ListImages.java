@@ -22,6 +22,7 @@ public class ListImages extends Activity {
         table = (TableLayout) findViewById(R.id.tab);
 
         drawMe();
+
     }
 
     void drawMe() {
