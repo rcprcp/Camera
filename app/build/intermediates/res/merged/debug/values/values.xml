@@ -152,6 +152,7 @@
     <string name="flash_off">"Turn Flash Off"</string>
     <string name="flash_on">"Turn Flash On"</string>
     <string name="hello_world">Hello world!</string>
+    <string name="image">"Image"</string>
     <string name="images">"Display Images"</string>
     <string name="ok">"OK"</string>
     <string name="retry">Retry</string>

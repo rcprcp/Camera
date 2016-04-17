@@ -198,16 +198,17 @@ public final class R {
         public static final int flash_off=0x7f070006;
         public static final int flash_on=0x7f070007;
         public static final int hello_world=0x7f070008;
-        public static final int images=0x7f070009;
-        public static final int ok=0x7f07000a;
-        public static final int retry=0x7f07000b;
-        public static final int save=0x7f07000c;
-        public static final int settings=0x7f07000d;
-        public static final int start=0x7f07000e;
-        public static final int switch_camera=0x7f07000f;
-        public static final int take=0x7f070010;
-        public static final int title_activity_list_images=0x7f070011;
-        public static final int title_activity_show_image=0x7f070012;
+        public static final int image=0x7f070009;
+        public static final int images=0x7f07000a;
+        public static final int ok=0x7f07000b;
+        public static final int retry=0x7f07000c;
+        public static final int save=0x7f07000d;
+        public static final int settings=0x7f07000e;
+        public static final int start=0x7f07000f;
+        public static final int switch_camera=0x7f070010;
+        public static final int take=0x7f070011;
+        public static final int title_activity_list_images=0x7f070012;
+        public static final int title_activity_show_image=0x7f070013;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
