@@ -1,7 +1,6 @@
 package com.cottagecoders.camera;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
@@ -14,15 +13,23 @@ import android.widget.TextView;
 import java.io.File;
 
 public class ListImages extends Activity {
+    TableLayout table;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list_images);
+        table = (TableLayout) findViewById(R.id.tab);
 
-        TableLayout table = (TableLayout) findViewById(R.id.tab);
+        drawMe();
+    }
 
-        //FileFilter
+    void drawMe() {
+
+        table.removeAllViews();
+
+        //TODO: add FileFilter.
+        //FileFilter...
         File[] dirFiles = Camera.ctx.getFilesDir().listFiles();
 
         for (File f : dirFiles) {
@@ -43,9 +50,10 @@ public class ListImages extends Activity {
             b.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    File f = (File)v.getTag();
+                    File f = (File) v.getTag();
                     Log.d(Camera.TAG, "deleting file name " + f.getName());
                     f.delete();
+                    drawMe();
                 }
             });
 
@@ -53,5 +61,6 @@ public class ListImages extends Activity {
             tr.addView(b);
             table.addView(tr);
         }
+
     }
 }
