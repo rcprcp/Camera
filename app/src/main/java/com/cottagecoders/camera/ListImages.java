@@ -1,6 +1,7 @@
 package com.cottagecoders.camera;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -46,7 +47,7 @@ public class ListImages extends Activity {
                 Log.d(Camera.TAG, "SHOW: the file " + f.getAbsoluteFile());
             }
 
-                TableRow tr = new TableRow(getApplicationContext());
+            TableRow tr = new TableRow(getApplicationContext());
 
             FileInputStream fis = null;
             try {
@@ -59,20 +60,30 @@ public class ListImages extends Activity {
 
             imageBitmap = Bitmap.createScaledBitmap(imageBitmap, THUMBSIZE, THUMBSIZE, false);
 
-            // ByteArrayOutputStream baos = new ByteArrayOutputStream();
-            // imageBitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
-            // byte[] imageData = baos.toByteArray();
-
-            // Bitmap thumbNail = ThumbnailUtils.extractThumbnail(BitmapFactory.decodeFile(f.getName()), THUMBSIZE, THUMBSIZE);
             ImageView iv = new ImageView(getApplicationContext());
-            iv.setPadding(5, 5, 5, 5);
+            iv.setPadding(10, 10, 10, 10);
             iv.setImageBitmap(imageBitmap);
+            final String finalF = f.getAbsoluteFile().toString();
+            Log.d(Camera.TAG, "finalF " + finalF);
+            iv.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    dispImage(finalF);
+                }
+            });
             tr.addView(iv);
 
             TextView tv = new TextView(getApplicationContext());
             tv.setTextSize(16f);
             tv.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.Black));
             tv.setText(f.getName());
+            tv.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    dispImage(finalF);
+                }
+            });
+
             tr.addView(tv);
 
             Button b = new Button(getApplicationContext());
@@ -93,6 +104,11 @@ public class ListImages extends Activity {
             tr.addView(b);
             table.addView(tr);
         }
+    }
 
+    private void dispImage(String fileName) {
+        Intent intent = new Intent(getApplicationContext(), ShowImage.class);
+        intent.putExtra("fileName", fileName);
+        startActivityForResult(intent, 123);
     }
 }

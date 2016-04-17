@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_f526d0915bd2039c0ae9fe6fe004a061f38010d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Marij\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_060ee0830dd57a00709fc2446a4f8a165a86cf26\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1823021f46b059a507078a459e7ee147decd28cb">
+        <dex dex="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e10c62c17492a763b708df4d40bc357ee7ec9f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_f5c9efefc313b5a2b12cad42a6a5574040084792\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4a31403aa4f3490a5e99620c500deda7b1385b1b">
+        <dex dex="C:\Users\Marij\Desktop\AndroidStudioProjects\Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0f6a1059c3baa2847862bc3432ae79a6fc0a20c6\classes.dex" />
+    </item>
+
+</items>
